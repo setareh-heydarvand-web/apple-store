@@ -1,5 +1,3 @@
-# apple-store ![Uploading Screenshot 2026-07-02 125437.png…]()
-
 
 # 🍎 Apple Inspired Website
 
