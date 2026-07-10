@@ -1,6 +1,8 @@
 
 # 🍎 Apple Inspired Website
 
+https://setareh-heydarvand-web.github.io/apple-store/
+
 A modern and minimal Apple-inspired website built with pure HTML & CSS.
 
 This project focuses on creating a clean, premium user interface inspired by Apple's design philosophy, with attention to spacing, typography, visual hierarchy, and smooth interactions.
