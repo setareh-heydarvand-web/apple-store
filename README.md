@@ -1,3 +1,4 @@
+<img width="1728" height="723" alt="apple" src="https://github.com/user-attachments/assets/57a4dc33-2b7c-4583-9b43-1873d79ee6fa" />
 
 # 🍎 Apple Inspired Website
 
@@ -27,7 +28,8 @@ This project focuses on creating a clean, premium user interface inspired by App
 
 ## 📸 Preview
 
-(Add your website screenshot here)
+<img width="1728" height="723" alt="apple" src="https://github.com/user-attachments/assets/d70df561-829d-4d6a-81f3-b0228221ce2c" />
+
 
 ## 🚀 Project Purpose
 
