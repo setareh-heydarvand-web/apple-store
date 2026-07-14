@@ -1,4 +1,4 @@
-<img width="1728" height="723" alt="apple" src="https://github.com/user-attachments/assets/57a4dc33-2b7c-4583-9b43-1873d79ee6fa" />
+
 
 # 🍎 Apple Inspired Website
 
